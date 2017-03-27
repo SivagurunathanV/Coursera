@@ -1,2 +1,2 @@
 # Coursera
-Course Era Solutions
+Coursera Solutions
